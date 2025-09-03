@@ -1,0 +1,62 @@
+ body {
+    margin:0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(255, 223, 174);
+    margin-top: -22px;
+    padding-top: 30px;
+    h1, p {
+    width: 100%;
+    justify-content: center;
+    display:flex;
+    margin: 20px;
+}
+nav {
+    background-color: rgb(255, 240, 192);
+    padding: 15px;
+    a {
+        color:black;
+        text-decoration: none;
+        padding: 5px;;
+    }
+    
+}
+
+}
+
+.Sejarah {
+    max-width: 700px;
+    margin: 30px;
+    box-shadow: 2px 2px 2px 5px #00000055;
+    padding: 20px;
+    border-radius: 10px;
+
+
+img{
+    width: 100%;
+    height:auto;
+}
+
+p{
+    opacity: 80%;
+}
+}
+
+.Geografis {
+    max-width: 700px;
+    margin: 30px;
+    box-shadow: 2px 2px 2px 5px #00000055;
+    padding: 20px;
+    border-radius: 10px;
+
+    img {
+        width: 100%;
+        height:auto;
+    }
+
+    p {
+        opacity: 80%;
+    }
+}
